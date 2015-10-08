@@ -10,7 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "electron-prebuilt": "^0.31.2",
-    "request": "^2.63.0"
+    "electron-prebuilt": "0.30.6",
+    "electron-rebuild": "^1.0.1",
+    "request": "^2.63.0",
+    "serialport-electron": "1.7.4-electron-0.30.6"
   }
 }

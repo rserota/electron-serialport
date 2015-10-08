@@ -2,7 +2,7 @@
 'use strict';
 
 var app = require('app');
-console.log(app)
+// console.log(app)
 var BrowserWindow = require('browser-window');
 
 var mainWindow = null;
